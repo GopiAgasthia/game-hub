@@ -6,6 +6,7 @@ import thumbsUp from "../assets/Emojis/thumbs-up.webp";
 interface Props {
   rating: number;
 }
+
 const Emoji = ({ rating }: Props) => {
   if (rating < 3) return null;
 
