@@ -1,4 +1,8 @@
-export default [
+export default {
+  "count": 14,
+  "next": null,
+  "previous": null,
+  "results": [
     {
       "id": 1,
       "name": "PC",
@@ -8,8 +12,8 @@ export default [
           "id": 4,
           "name": "PC",
           "slug": "pc",
-          "games_count": 526748,
-          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+          "games_count": 526750,
+          "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -35,8 +39,8 @@ export default [
           "id": 18,
           "name": "PlayStation 4",
           "slug": "playstation4",
-          "games_count": 6773,
-          "image_background": "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
+          "games_count": 6775,
+          "image_background": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -55,8 +59,8 @@ export default [
           "id": 15,
           "name": "PlayStation 2",
           "slug": "playstation2",
-          "games_count": 2031,
-          "image_background": "https://media.rawg.io/media/games/07b/07b5abbe6330a76d6b30636d3aa5e0f3.jpg",
+          "games_count": 2032,
+          "image_background": "https://media.rawg.io/media/games/615/615e9fc0a325e0d87b84dad029b8b7b9.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -112,8 +116,8 @@ export default [
           "id": 186,
           "name": "Xbox Series S/X",
           "slug": "xbox-series-x",
-          "games_count": 886,
-          "image_background": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
+          "games_count": 889,
+          "image_background": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
           "image": null,
           "year_start": 2020,
           "year_end": null
@@ -122,8 +126,8 @@ export default [
           "id": 14,
           "name": "Xbox 360",
           "slug": "xbox360",
-          "games_count": 2797,
-          "image_background": "https://media.rawg.io/media/games/120/1201a40e4364557b124392ee50317b99.jpg",
+          "games_count": 2799,
+          "image_background": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
           "image": null,
           "year_start": null,
           "year_end": null
@@ -608,3 +612,4 @@ export default [
       ]
     }
   ]
+}
