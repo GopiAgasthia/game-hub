@@ -6,7 +6,7 @@ import {
   FaWindows,
   FaXbox,
 } from "react-icons/fa6";
-import { Platform } from "../entities/Platform";
+import Platform from "../entities/Platform";
 import { HStack, Icon } from "@chakra-ui/react";
 import { SiNintendo } from "react-icons/si";
 import { MdPhoneIphone } from "react-icons/md";
